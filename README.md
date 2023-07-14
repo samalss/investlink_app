@@ -6,7 +6,9 @@ A mobile application for viewing current and historical data on cryptocurrency p
 Необходимые зависимости
 
   http: ^0.13.6
+  
   intl: ^0.18.1
+  
   syncfusion_flutter_charts: ^20.3.52
 
   
