@@ -5,11 +5,11 @@ A mobile application for viewing current and historical data on cryptocurrency p
 ## Getting Started
 Необходимые зависимости
 
-  http: ^0.13.6
+ ## http: ^0.13.6
   
-  intl: ^0.18.1
+ ## intl: ^0.18.1
   
-  syncfusion_flutter_charts: ^20.3.52
+ ## syncfusion_flutter_charts: ^20.3.52
 
   
 This project is a starting point for a Flutter application.
