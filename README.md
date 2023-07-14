@@ -3,7 +3,13 @@
 A mobile application for viewing current and historical data on cryptocurrency prices
 
 ## Getting Started
+Необходимые зависимости
 
+  http: ^0.13.6
+  intl: ^0.18.1
+  syncfusion_flutter_charts: ^20.3.52
+
+  
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
